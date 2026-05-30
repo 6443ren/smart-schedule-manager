@@ -126,7 +126,6 @@ python smart_schedule_manager.py
 smart-schedule-manager/
 ├── assets/
 │   └── screenshots/
-│       ├── home.png
 │       ├── 主页面.png
 │       ├── 任务清单页面.png
 │       ├── 习惯打卡页面.png
