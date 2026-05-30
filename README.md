@@ -55,31 +55,6 @@
 
 ---
 
-## 界面预览
-
-### 主页面
-![主页面](assets/screenshots/主页面.png)
-
-### 任务清单页面
-![任务清单页面](assets/screenshots/任务清单页面.png)
-
-### 习惯打卡页面
-![习惯打卡页面](assets/screenshots/习惯打卡页面.png)
-
-### 天气同步页面
-![天气同步页面](assets/screenshots/天气同步页面.png)
-
-### 提醒设置页面
-![提醒设置页面](assets/screenshots/提醒设置页面.png)
-
-### 统计分析页面
-![统计分析页面](assets/screenshots/统计分析页面.png)
-
-### 设置中心页面
-![设置中心页面](assets/screenshots/设置中心页面.png)
-
----
-
 ## 技术栈
 
 - **Python 3**
@@ -139,6 +114,31 @@ smart-schedule-manager/
 ├── requirements.txt
 └── smart_schedule_manager.py
 ```
+
+---
+
+## 界面预览
+
+### 主页面
+![主页面](assets/screenshots/主页面.png)
+
+### 任务清单页面
+![任务清单页面](assets/screenshots/任务清单页面.png)
+
+### 习惯打卡页面
+![习惯打卡页面](assets/screenshots/习惯打卡页面.png)
+
+### 天气同步页面
+![天气同步页面](assets/screenshots/天气同步页面.png)
+
+### 提醒设置页面
+![提醒设置页面](assets/screenshots/提醒设置页面.png)
+
+### 统计分析页面
+![统计分析页面](assets/screenshots/统计分析页面.png)
+
+### 设置中心页面
+![设置中心页面](assets/screenshots/设置中心页面.png)
 
 ---
 
